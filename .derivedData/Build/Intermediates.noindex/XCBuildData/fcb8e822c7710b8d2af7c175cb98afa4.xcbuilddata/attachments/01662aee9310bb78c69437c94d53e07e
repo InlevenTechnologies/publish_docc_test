@@ -1,0 +1,38 @@
+{
+  "" : {
+    "diagnostics" : "/Users/shokohashimoto/Developer/Random/DoccPublishTest/.derivedData/Build/Intermediates.noindex/DoccPublishTest.build/Debug-iphonesimulator/DoccPublishTest.build/Objects-normal/x86_64/DoccPublishTest-master.dia",
+    "emit-module-dependencies" : "/Users/shokohashimoto/Developer/Random/DoccPublishTest/.derivedData/Build/Intermediates.noindex/DoccPublishTest.build/Debug-iphonesimulator/DoccPublishTest.build/Objects-normal/x86_64/DoccPublishTest-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/shokohashimoto/Developer/Random/DoccPublishTest/.derivedData/Build/Intermediates.noindex/DoccPublishTest.build/Debug-iphonesimulator/DoccPublishTest.build/Objects-normal/x86_64/DoccPublishTest-master-emit-module.dia",
+    "swift-dependencies" : "/Users/shokohashimoto/Developer/Random/DoccPublishTest/.derivedData/Build/Intermediates.noindex/DoccPublishTest.build/Debug-iphonesimulator/DoccPublishTest.build/Objects-normal/x86_64/DoccPublishTest-master.swiftdeps"
+  },
+  "/Users/shokohashimoto/Developer/Random/DoccPublishTest/.derivedData/Build/Intermediates.noindex/DoccPublishTest.build/Debug-iphonesimulator/DoccPublishTest.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/shokohashimoto/Developer/Random/DoccPublishTest/.derivedData/Build/Intermediates.noindex/DoccPublishTest.build/Debug-iphonesimulator/DoccPublishTest.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/shokohashimoto/Developer/Random/DoccPublishTest/.derivedData/Build/Intermediates.noindex/DoccPublishTest.build/Debug-iphonesimulator/DoccPublishTest.build/Objects-normal/x86_64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/shokohashimoto/Developer/Random/DoccPublishTest/.derivedData/Build/Intermediates.noindex/DoccPublishTest.build/Debug-iphonesimulator/DoccPublishTest.build/Objects-normal/x86_64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/DoccPublishTest.build/Debug-iphonesimulator/DoccPublishTest.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/shokohashimoto/Developer/Random/DoccPublishTest/.derivedData/Build/Intermediates.noindex/DoccPublishTest.build/Debug-iphonesimulator/DoccPublishTest.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/shokohashimoto/Developer/Random/DoccPublishTest/.derivedData/Build/Intermediates.noindex/DoccPublishTest.build/Debug-iphonesimulator/DoccPublishTest.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/shokohashimoto/Developer/Random/DoccPublishTest/.derivedData/Build/Intermediates.noindex/DoccPublishTest.build/Debug-iphonesimulator/DoccPublishTest.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/shokohashimoto/Developer/Random/DoccPublishTest/.derivedData/Build/Intermediates.noindex/DoccPublishTest.build/Debug-iphonesimulator/DoccPublishTest.build/Objects-normal/x86_64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/shokohashimoto/Developer/Random/DoccPublishTest/DoccPublishTest/ContentView.swift" : {
+    "const-values" : "/Users/shokohashimoto/Developer/Random/DoccPublishTest/.derivedData/Build/Intermediates.noindex/DoccPublishTest.build/Debug-iphonesimulator/DoccPublishTest.build/Objects-normal/x86_64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/shokohashimoto/Developer/Random/DoccPublishTest/.derivedData/Build/Intermediates.noindex/DoccPublishTest.build/Debug-iphonesimulator/DoccPublishTest.build/Objects-normal/x86_64/ContentView.d",
+    "diagnostics" : "/Users/shokohashimoto/Developer/Random/DoccPublishTest/.derivedData/Build/Intermediates.noindex/DoccPublishTest.build/Debug-iphonesimulator/DoccPublishTest.build/Objects-normal/x86_64/ContentView.dia",
+    "index-unit-output-path" : "/DoccPublishTest.build/Debug-iphonesimulator/DoccPublishTest.build/Objects-normal/x86_64/ContentView.o",
+    "llvm-bc" : "/Users/shokohashimoto/Developer/Random/DoccPublishTest/.derivedData/Build/Intermediates.noindex/DoccPublishTest.build/Debug-iphonesimulator/DoccPublishTest.build/Objects-normal/x86_64/ContentView.bc",
+    "object" : "/Users/shokohashimoto/Developer/Random/DoccPublishTest/.derivedData/Build/Intermediates.noindex/DoccPublishTest.build/Debug-iphonesimulator/DoccPublishTest.build/Objects-normal/x86_64/ContentView.o",
+    "swift-dependencies" : "/Users/shokohashimoto/Developer/Random/DoccPublishTest/.derivedData/Build/Intermediates.noindex/DoccPublishTest.build/Debug-iphonesimulator/DoccPublishTest.build/Objects-normal/x86_64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/shokohashimoto/Developer/Random/DoccPublishTest/.derivedData/Build/Intermediates.noindex/DoccPublishTest.build/Debug-iphonesimulator/DoccPublishTest.build/Objects-normal/x86_64/ContentView~partial.swiftmodule"
+  },
+  "/Users/shokohashimoto/Developer/Random/DoccPublishTest/DoccPublishTest/DoccPublishTestApp.swift" : {
+    "const-values" : "/Users/shokohashimoto/Developer/Random/DoccPublishTest/.derivedData/Build/Intermediates.noindex/DoccPublishTest.build/Debug-iphonesimulator/DoccPublishTest.build/Objects-normal/x86_64/DoccPublishTestApp.swiftconstvalues",
+    "dependencies" : "/Users/shokohashimoto/Developer/Random/DoccPublishTest/.derivedData/Build/Intermediates.noindex/DoccPublishTest.build/Debug-iphonesimulator/DoccPublishTest.build/Objects-normal/x86_64/DoccPublishTestApp.d",
+    "diagnostics" : "/Users/shokohashimoto/Developer/Random/DoccPublishTest/.derivedData/Build/Intermediates.noindex/DoccPublishTest.build/Debug-iphonesimulator/DoccPublishTest.build/Objects-normal/x86_64/DoccPublishTestApp.dia",
+    "index-unit-output-path" : "/DoccPublishTest.build/Debug-iphonesimulator/DoccPublishTest.build/Objects-normal/x86_64/DoccPublishTestApp.o",
+    "llvm-bc" : "/Users/shokohashimoto/Developer/Random/DoccPublishTest/.derivedData/Build/Intermediates.noindex/DoccPublishTest.build/Debug-iphonesimulator/DoccPublishTest.build/Objects-normal/x86_64/DoccPublishTestApp.bc",
+    "object" : "/Users/shokohashimoto/Developer/Random/DoccPublishTest/.derivedData/Build/Intermediates.noindex/DoccPublishTest.build/Debug-iphonesimulator/DoccPublishTest.build/Objects-normal/x86_64/DoccPublishTestApp.o",
+    "swift-dependencies" : "/Users/shokohashimoto/Developer/Random/DoccPublishTest/.derivedData/Build/Intermediates.noindex/DoccPublishTest.build/Debug-iphonesimulator/DoccPublishTest.build/Objects-normal/x86_64/DoccPublishTestApp.swiftdeps",
+    "swiftmodule" : "/Users/shokohashimoto/Developer/Random/DoccPublishTest/.derivedData/Build/Intermediates.noindex/DoccPublishTest.build/Debug-iphonesimulator/DoccPublishTest.build/Objects-normal/x86_64/DoccPublishTestApp~partial.swiftmodule"
+  }
+}

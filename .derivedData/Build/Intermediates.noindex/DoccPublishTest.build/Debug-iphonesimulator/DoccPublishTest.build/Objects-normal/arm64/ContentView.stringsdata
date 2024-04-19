@@ -1,0 +1,12 @@
+{
+  "source": "/Users/shokohashimoto/Developer/Random/DoccPublishTest/DoccPublishTest/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Hello, world!"
+      }
+    ]
+  },
+  "version": 1
+}
