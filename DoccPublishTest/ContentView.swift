@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  DoccPublishTest
-//
-//  Created by Shoko Hashimoto on 2024-04-19.
-//
-
 import SwiftUI
 
 struct ContentView: View {
